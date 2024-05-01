@@ -1,0 +1,15 @@
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\obj\Debug\net7.0\Prova01.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\obj\Debug\net7.0\Prova01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\obj\Debug\net7.0\Prova01.AssemblyInfoInputs.cache
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\obj\Debug\net7.0\Prova01.AssemblyInfo.cs
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\obj\Debug\net7.0\Prova01.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\bin\Debug\net7.0\Prova01.exe
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\bin\Debug\net7.0\Prova01.deps.json
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\bin\Debug\net7.0\Prova01.runtimeconfig.json
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\bin\Debug\net7.0\Prova01.dll
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\bin\Debug\net7.0\Prova01.pdb
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\obj\Debug\net7.0\Prova01.dll
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\obj\Debug\net7.0\refint\Prova01.dll
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\obj\Debug\net7.0\Prova01.pdb
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\obj\Debug\net7.0\Prova01.genruntimeconfig.cache
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\obj\Debug\net7.0\ref\Prova01.dll
