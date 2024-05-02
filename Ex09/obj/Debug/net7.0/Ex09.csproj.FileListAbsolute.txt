@@ -1,0 +1,15 @@
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\bin\Debug\net7.0\Ex09.exe
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\bin\Debug\net7.0\Ex09.deps.json
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\bin\Debug\net7.0\Ex09.runtimeconfig.json
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\bin\Debug\net7.0\Ex09.dll
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\bin\Debug\net7.0\Ex09.pdb
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\obj\Debug\net7.0\Ex09.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\obj\Debug\net7.0\Ex09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\obj\Debug\net7.0\Ex09.AssemblyInfoInputs.cache
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\obj\Debug\net7.0\Ex09.AssemblyInfo.cs
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\obj\Debug\net7.0\Ex09.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\obj\Debug\net7.0\Ex09.dll
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\obj\Debug\net7.0\refint\Ex09.dll
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\obj\Debug\net7.0\Ex09.pdb
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\obj\Debug\net7.0\Ex09.genruntimeconfig.cache
+C:\Users\Gabri\OneDrive\Documentos\Faculdade Gabriel\ADS\2024\C#\Prova01\Ex09\obj\Debug\net7.0\ref\Ex09.dll
