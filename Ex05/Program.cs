@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-class Program
+﻿class Program05
 {
     static void Main(string[] args)
     {
