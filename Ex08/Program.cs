@@ -1,4 +1,7 @@
-﻿class Program08
+﻿namespace Ex08
 {
+    class Program08
+    {
 
+    }
 }

@@ -1,4 +1,7 @@
-﻿class Program09
+﻿namespace Ex09
 {
+    class Program09
+    {
 
+    }
 }
